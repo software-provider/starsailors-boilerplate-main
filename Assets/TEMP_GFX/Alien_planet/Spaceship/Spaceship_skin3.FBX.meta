@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: c021bb302332a194591c7df28f9e505d
+timeCreated: 1475571950
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: flaps_skin3
+    100002: flaps_skin3 1
+    100004: flaps_skin3 2
+    100006: flaps_skin3 3
+    100008: flaps_skin3 4
+    100010: flaps_skin3 5
+    100012: landing_gear_skin3
+    100014: landing_gear_skin3 1
+    100016: reactor_skin3
+    100018: reactor_skin3 1
+    100020: //RootNode
+    100022: spaceship_skin3
+    100024: wing_skin3
+    100026: wing_skin3 1
+    400000: flaps_skin3
+    400002: flaps_skin3 1
+    400004: flaps_skin3 2
+    400006: flaps_skin3 3
+    400008: flaps_skin3 4
+    400010: flaps_skin3 5
+    400012: landing_gear_skin3
+    400014: landing_gear_skin3 1
+    400016: reactor_skin3
+    400018: reactor_skin3 1
+    400020: //RootNode
+    400022: spaceship_skin3
+    400024: wing_skin3
+    400026: wing_skin3 1
+    2300000: flaps_skin3
+    2300002: flaps_skin3 1
+    2300004: flaps_skin3 2
+    2300006: flaps_skin3 3
+    2300008: flaps_skin3 4
+    2300010: flaps_skin3 5
+    2300012: landing_gear_skin3
+    2300014: landing_gear_skin3 1
+    2300016: reactor_skin3
+    2300018: reactor_skin3 1
+    2300020: spaceship_skin3
+    2300022: wing_skin3
+    2300024: wing_skin3 1
+    3300000: flaps_skin3
+    3300002: flaps_skin3 1
+    3300004: flaps_skin3 2
+    3300006: flaps_skin3 3
+    3300008: flaps_skin3 4
+    3300010: flaps_skin3 5
+    3300012: landing_gear_skin3
+    3300014: landing_gear_skin3 1
+    3300016: reactor_skin3
+    3300018: reactor_skin3 1
+    3300020: spaceship_skin3
+    3300022: wing_skin3
+    3300024: wing_skin3 1
+    4300000: spaceship_skin3
+    4300002: reactor_skin3
+    4300004: flaps_skin3
+    4300006: flaps_skin3
+    4300008: flaps_skin3
+    4300010: landing_gear_skin3
+    4300012: reactor_skin3
+    4300014: flaps_skin3
+    4300016: flaps_skin3
+    4300018: flaps_skin3
+    4300020: wing_skin3
+    4300022: wing_skin3
+    4300024: landing_gear_skin3
+    6400000: flaps_skin3
+    6400002: flaps_skin3 1
+    6400004: flaps_skin3 2
+    6400006: flaps_skin3 3
+    6400008: flaps_skin3 4
+    6400010: flaps_skin3 5
+    6400012: landing_gear_skin3
+    6400014: landing_gear_skin3 1
+    6400016: reactor_skin3
+    6400018: reactor_skin3 1
+    6400020: spaceship_skin3
+    6400022: wing_skin3
+    6400024: wing_skin3 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

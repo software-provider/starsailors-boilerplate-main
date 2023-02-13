@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 8b573af4b70e8f14a89d52776f9dd12b
+timeCreated: 1474874030
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: flaps003
+    100002: flaps004
+    100004: flaps005
+    100006: flaps006
+    100008: flaps007
+    100010: flaps008
+    100012: landing_gear001
+    100014: landing_gear002
+    100016: reactor001
+    100018: reactor002
+    100020: spaceship002
+    100022: //RootNode
+    100024: wing001
+    100026: wing002
+    100028: spaceship
+    400000: flaps003
+    400002: flaps004
+    400004: flaps005
+    400006: flaps006
+    400008: flaps007
+    400010: flaps008
+    400012: landing_gear001
+    400014: landing_gear002
+    400016: reactor001
+    400018: reactor002
+    400020: spaceship002
+    400022: //RootNode
+    400024: wing001
+    400026: wing002
+    400028: spaceship
+    2300000: flaps003
+    2300002: flaps004
+    2300004: flaps005
+    2300006: flaps006
+    2300008: flaps007
+    2300010: flaps008
+    2300012: landing_gear001
+    2300014: landing_gear002
+    2300016: reactor001
+    2300018: reactor002
+    2300020: spaceship002
+    2300022: wing001
+    2300024: wing002
+    2300026: spaceship
+    3300000: flaps003
+    3300002: flaps004
+    3300004: flaps005
+    3300006: flaps006
+    3300008: flaps007
+    3300010: flaps008
+    3300012: landing_gear001
+    3300014: landing_gear002
+    3300016: reactor001
+    3300018: reactor002
+    3300020: spaceship002
+    3300022: wing001
+    3300024: wing002
+    3300026: spaceship
+    4300000: spaceship002
+    4300002: reactor002
+    4300004: flaps007
+    4300006: flaps006
+    4300008: flaps008
+    4300010: wing002
+    4300012: wing001
+    4300014: reactor001
+    4300016: flaps004
+    4300018: flaps003
+    4300020: flaps005
+    4300022: landing_gear002
+    4300024: landing_gear001
+    4300026: spaceship
+    6400000: flaps003
+    6400002: flaps004
+    6400004: flaps005
+    6400006: flaps006
+    6400008: flaps007
+    6400010: flaps008
+    6400012: landing_gear001
+    6400014: landing_gear002
+    6400016: reactor001
+    6400018: reactor002
+    6400020: spaceship002
+    6400022: wing001
+    6400024: wing002
+    6400026: spaceship
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

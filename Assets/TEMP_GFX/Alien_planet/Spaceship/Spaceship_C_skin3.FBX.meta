@@ -1,0 +1,109 @@
+fileFormatVersion: 2
+guid: aa68b8ad3281ae9488d5307fb4f77306
+timeCreated: 1476413063
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Landing_gea_c_skin3
+    100002: Landing_gea_c_skin3 1
+    100004: Landing_gea_c_skin3 2
+    100006: //RootNode
+    100008: spaceship_c_skin3
+    100010: wing_c_skin3
+    100012: wing_c_skin3 1
+    400000: Landing_gea_c_skin3
+    400002: Landing_gea_c_skin3 1
+    400004: Landing_gea_c_skin3 2
+    400006: //RootNode
+    400008: spaceship_c_skin3
+    400010: wing_c_skin3
+    400012: wing_c_skin3 1
+    2300000: Landing_gea_c_skin3
+    2300002: Landing_gea_c_skin3 1
+    2300004: Landing_gea_c_skin3 2
+    2300006: spaceship_c_skin3
+    2300008: wing_c_skin3
+    2300010: wing_c_skin3 1
+    3300000: Landing_gea_c_skin3
+    3300002: Landing_gea_c_skin3 1
+    3300004: Landing_gea_c_skin3 2
+    3300006: spaceship_c_skin3
+    3300008: wing_c_skin3
+    3300010: wing_c_skin3 1
+    4300000: spaceship_c_skin3
+    4300002: Landing_gea_c_skin3
+    4300004: wing_c_skin3
+    4300006: Landing_gea_c_skin3
+    4300008: wing_c_skin3
+    4300010: Landing_gea_c_skin3
+    6400000: Landing_gea_c_skin3
+    6400002: Landing_gea_c_skin3 1
+    6400004: Landing_gea_c_skin3 2
+    6400006: spaceship_c_skin3
+    6400008: wing_c_skin3
+    6400010: wing_c_skin3 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

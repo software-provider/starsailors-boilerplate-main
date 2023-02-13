@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: d4dc7397c79a22c42b01c0044d4fff97
+timeCreated: 1476265955
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Drone_skin1
+    100002: //RootNode
+    100004: flaps019
+    100006: flaps020
+    100008: flaps021
+    100010: flaps022
+    100012: Drone_antenna_skin1
+    100014: Drone_antenna_skin002
+    100016: Drone_antenna_skin1 1
+    400000: Drone_skin1
+    400002: //RootNode
+    400004: flaps019
+    400006: flaps020
+    400008: flaps021
+    400010: flaps022
+    400012: Drone_antenna_skin1
+    400014: Drone_antenna_skin002
+    400016: Drone_antenna_skin1 1
+    2300000: Drone_skin1
+    2300002: flaps019
+    2300004: flaps020
+    2300006: flaps021
+    2300008: flaps022
+    2300010: Drone_antenna_skin1
+    2300012: Drone_antenna_skin002
+    2300014: Drone_antenna_skin1 1
+    3300000: Drone_skin1
+    3300002: flaps019
+    3300004: flaps020
+    3300006: flaps021
+    3300008: flaps022
+    3300010: Drone_antenna_skin1
+    3300012: Drone_antenna_skin002
+    3300014: Drone_antenna_skin1 1
+    4300000: Drone_skin1
+    4300002: flaps019
+    4300004: flaps020
+    4300006: flaps021
+    4300008: flaps022
+    4300010: Drone_antenna_skin1
+    4300012: Drone_antenna_skin002
+    4300014: Drone_antenna_skin1
+    6400000: Drone_skin1
+    6400002: flaps019
+    6400004: flaps020
+    6400006: flaps021
+    6400008: flaps022
+    6400010: Drone_antenna_skin1
+    6400012: Drone_antenna_skin002
+    6400014: Drone_antenna_skin1 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

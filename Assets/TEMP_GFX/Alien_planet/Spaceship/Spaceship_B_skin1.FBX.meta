@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 96099915fcbca5f4799f355ded07d2fe
+timeCreated: 1475717521
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: flaps009
+    100002: flaps010
+    100004: flaps011
+    100006: flaps012
+    100008: Landing_gear
+    100010: Landing_gear 1
+    100012: Landing_gear001
+    100014: reactor003
+    100016: reactor004
+    100018: spaceship_b
+    100020: //RootNode
+    100022: wing_b
+    100024: wing_b001
+    400000: flaps009
+    400002: flaps010
+    400004: flaps011
+    400006: flaps012
+    400008: Landing_gear
+    400010: Landing_gear 1
+    400012: Landing_gear001
+    400014: reactor003
+    400016: reactor004
+    400018: spaceship_b
+    400020: //RootNode
+    400022: wing_b
+    400024: wing_b001
+    2300000: flaps009
+    2300002: flaps010
+    2300004: flaps011
+    2300006: flaps012
+    2300008: Landing_gear
+    2300010: Landing_gear 1
+    2300012: Landing_gear001
+    2300014: reactor003
+    2300016: reactor004
+    2300018: spaceship_b
+    2300020: wing_b
+    2300022: wing_b001
+    3300000: flaps009
+    3300002: flaps010
+    3300004: flaps011
+    3300006: flaps012
+    3300008: Landing_gear
+    3300010: Landing_gear 1
+    3300012: Landing_gear001
+    3300014: reactor003
+    3300016: reactor004
+    3300018: spaceship_b
+    3300020: wing_b
+    3300022: wing_b001
+    4300000: spaceship_b
+    4300002: flaps010
+    4300004: flaps011
+    4300006: reactor004
+    4300008: wing_b001
+    4300010: reactor003
+    4300012: wing_b
+    4300014: flaps009
+    4300016: flaps012
+    4300018: Landing_gear
+    4300020: Landing_gear001
+    4300022: Landing_gear
+    6400000: flaps009
+    6400002: flaps010
+    6400004: flaps011
+    6400006: flaps012
+    6400008: Landing_gear
+    6400010: Landing_gear 1
+    6400012: Landing_gear001
+    6400014: reactor003
+    6400016: reactor004
+    6400018: spaceship_b
+    6400020: wing_b
+    6400022: wing_b001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
